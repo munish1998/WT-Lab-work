@@ -1,0 +1,24 @@
+<!DOCTYPE>
+<HTML>
+<HEAD>
+<META CHARSET="UTF-8">
+<TITLE> CLASS2</TITLE>
+<BODY>
+<H1> MY INFO </H1>
+<PRE>MY NAME IS MUNISH RAI
+     I AM AVAILABLE FOR HIRE
+	 MY HOUR OLD PRICE WAS 640 AND THE NEW PRICE IS 450
+	 VISIT MY WEBSITE FROM THIS LINK <a href="https://github.com/login" >click here</a> 
+</PRE>	 
+<hr>
+<h1> HERE IS SOME OF MY CLIENTS</H1>
+<IMG SRC="https://gardeningsun.com/wp-content/uploads/2020/04/anemone-4977603_1920-1024x933.jpg" height="100" width="100">
+<IMG SRC="https://th.bing.com/th/id/OIP.Valwj1GfuRsTeYKiKYI9GQHaEo?pid=ImgDet&rs=1" height="100" width="100">
+<h2>My SKILLS </H2>
+<UL>
+<LI>HTML<LI>
+<LI>CSS<LI>
+<LI>JAVASCRIPT</LI>
+
+</body>
+</html>
